@@ -1,0 +1,16 @@
+{
+  "title": "Alarm clock",
+  "image": "dog.jpg",
+  "area_name": "Swindon",
+  "refresh_rate": 5,
+  "covid_tiers": {
+      "tier_1": 20,
+      "tier_2": 40,
+      "tier_3": 60
+    },
+  "api_keys":{
+      "news_api_key": "4600562d71724c8292d03e1661496c39",
+      "weather_api_key": "b65955bacc3c6116925ea9c905f04586"
+    },
+  "file_paths":{"log_file": "Logs/sys.log"}
+}
